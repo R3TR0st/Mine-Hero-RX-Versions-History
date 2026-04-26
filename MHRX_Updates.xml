@@ -1,1 +1,14 @@
-https://raw.githubusercontent.com/R3TR0st/Mine-Hero-RX-Versions-History/refs/heads/main/MHRX_Updates.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<update>
+    <latest_version>Open Beta 0.2</latest_version>
+    
+    <download_modrinth>https://modrinth.com/mod/mine-hero-rx</download_modrinth>
+    <download_curseforge>https://www.curseforge.com/minecraft/mc-mods/mine-hero-rx</download_curseforge>
+    
+    <changelog>
+        - Ajout du système complet de missions quotidiennes
+        - Correction du système de respin
+        - Amélioration du système de vérification de mise à jour
+        - Optimisations diverses
+    </changelog>
+</update>
