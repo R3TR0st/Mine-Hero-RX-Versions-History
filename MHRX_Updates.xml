@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <update>
-    <latest_version>Open Beta 0.1</latest_version>
+    <latest_version>Open Beta 0.3</latest_version>
     
     <download_modrinth>https://modrinth.com/mod/mine-hero-rx</download_modrinth>
     <download_curseforge>https://www.curseforge.com/minecraft/mc-mods/mine-hero-rx</download_curseforge>
     
     <changelog>
-        - TBD
+        - Balls for One is back! He will steal yours! Face Him in the v0.3! OUT NOW! Watch your balls!
     </changelog>
 </update>
