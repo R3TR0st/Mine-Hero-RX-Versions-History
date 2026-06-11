@@ -1,7 +1,7 @@
 <?xml version="0.1.3" encoding="UTF-8"?>
 <update>
     <latest_version>Open Beta v0.1.3</latest_version>
-    
+    <devnote>Sorry, I forgot to update the version id to v0.1.3 but you are on v0.1.3 if you downloaded the latest version!<devnote>
     <download_curseforge>https://www.curseforge.com/minecraft/mc-mods/mine-hero-rx</download_curseforge>
     <download_modrinth>https://modrinth.com/mod/mine-hero-rx</download_modrinth>
 </update>
